@@ -1,3 +1,6 @@
+Create  "Downloads"('spelt the exact same but without quotes')Folder into 
+the folder that has the extracted material it will not work without a Downloads folder
+
 You do not need to run this program as admin.
 
 make sure to extract everything into a folder or else it will not work.
